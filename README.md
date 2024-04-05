@@ -16,5 +16,7 @@ Isso significa que cada engenheiro de software na equipe pode separar uma ramifi
 
 ## O que é github?
 
+ GitHub é um projeto de gestão baseado em nuvem e uma plataforma de organização que incorpora os recursos de controle de versão do Git. Isso significa que todos os usuários do GitHub podem acompanhar e gerenciar as mudanças feitas para o código-fonte em tempo real, enquanto têm acesso a todos os outros recursos do Git disponíveis no mesmo lugar.
+
 
 
