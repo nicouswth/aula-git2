@@ -11,5 +11,5 @@ Diferentemente dos sistemas de controle de versão centralizados, o Git oferece 
 * Branches
 * Merge e Rebase
 
-!git(https://github.com/nicouswth/aula-git2/assets/164562570/fbef4159-2218-4a6f-af6c-bfd750391494)
+![Alt](https://github.com/nicouswth/aula-git2/assets/164562570/fbef4159-2218-4a6f-af6c-bfd750391494)
 
