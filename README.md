@@ -12,6 +12,7 @@ Isso significa que cada engenheiro de software na equipe pode separar uma ramifi
 * Branches
 * Merge e Rebase
 
+<img src='figure/rstudio.png' width='25'>
 ![Alt](https://github.com/nicouswth/aula-git2/assets/164562570/fbef4159-2218-4a6f-af6c-bfd750391494)
 
 ## O que é github?
