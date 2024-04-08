@@ -34,7 +34,17 @@ O Visual Studio Code (VS Code) é um editor de código de código aberto VS Code
 *
 
 <img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/vs-code-configuracoes.png"
-width="300px"/>
+width="300px"/> 
+
+### referencias 
+
+https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-1298415354460&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwq86wBhDiARIsAJhuphllRhaeLob34NaaAfVLD2cFd1bghdwhNhbSES6tri_on0SPs5ziAy0aAvcNEALw_wcB
+
+https://www.hostinger.com.br/tutoriais/o-que-github
+
+https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
+
+## fim
 
 
 
