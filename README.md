@@ -19,5 +19,22 @@ width="300px"/>
 
  GitHub é um projeto de gestão baseado em nuvem e uma plataforma de organização que incorpora os recursos de controle de versão do Git. Isso significa que todos os usuários do GitHub podem acompanhar e gerenciar as mudanças feitas para o código-fonte em tempo real, enquanto têm acesso a todos os outros recursos do Git disponíveis no mesmo lugar.
 
+ * fluxos de trabalho
+ *  GitHub Actions
+ *  Colaborar com outros desenvolvedores
+ *  Gerenciamento de Projetos
+
+<img src="https://www.alura.com.br/artigos/assets/git-hub/tela-github.png"
+width="300px"/>
+
+## O que é vscode?
+
+O Visual Studio Code (VS Code) é um editor de código de código aberto VS Code é um Editor de Código, o qual possui as funcionalidades mais simples como edição de código com suporte a várias linguagens de programação, terminal de comandos integrado, controle de versão
+
+*
+
+<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/vs-code-configuracoes.png"
+width="300px"/>
+
 
 
